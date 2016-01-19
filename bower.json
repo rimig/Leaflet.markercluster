@@ -22,6 +22,6 @@
         "tests"
     ],
     "dependencies": {
-        "mapbox": "2.1.3"
+        "mapbox.js": "2.1.3"
     }
 }
