@@ -21,4 +21,7 @@
         "test",
         "tests"
     ]
+    "dependencies": {
+        "mapbox": "2.1.3"
+    }
 }
